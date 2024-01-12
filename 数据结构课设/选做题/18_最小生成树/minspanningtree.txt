@@ -1,0 +1,24 @@
+7
+a b c d e f g 
+21
+a b 1.2
+a c 1
+a d 4.5
+a e 19
+a f 6
+a g 1
+b c 19
+b d 8
+b e 6
+b f 18
+b g 12.8
+c d 5
+c e 20
+c f 8
+c g 15.1
+d e 15
+d f 6
+d g 6
+e f 18.7
+e g 11.5
+f g 4
